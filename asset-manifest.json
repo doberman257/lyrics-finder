@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/doberman257/lyricsFinder/static/css/main.f678686e.chunk.css",
-    "main.js": "/doberman257/lyricsFinder/static/js/main.4f4ed0f1.chunk.js",
-    "main.js.map": "/doberman257/lyricsFinder/static/js/main.4f4ed0f1.chunk.js.map",
-    "runtime-main.js": "/doberman257/lyricsFinder/static/js/runtime-main.dff2f7fa.js",
-    "runtime-main.js.map": "/doberman257/lyricsFinder/static/js/runtime-main.dff2f7fa.js.map",
-    "static/js/2.beef8847.chunk.js": "/doberman257/lyricsFinder/static/js/2.beef8847.chunk.js",
-    "static/js/2.beef8847.chunk.js.map": "/doberman257/lyricsFinder/static/js/2.beef8847.chunk.js.map",
-    "index.html": "/doberman257/lyricsFinder/index.html",
-    "precache-manifest.17f998c0c1f874f099d054b5ad58ebdb.js": "/doberman257/lyricsFinder/precache-manifest.17f998c0c1f874f099d054b5ad58ebdb.js",
-    "service-worker.js": "/doberman257/lyricsFinder/service-worker.js",
-    "static/css/main.f678686e.chunk.css.map": "/doberman257/lyricsFinder/static/css/main.f678686e.chunk.css.map",
-    "static/js/2.beef8847.chunk.js.LICENSE.txt": "/doberman257/lyricsFinder/static/js/2.beef8847.chunk.js.LICENSE.txt"
+    "main.css": "/lyrics-finder/static/css/main.f678686e.chunk.css",
+    "main.js": "/lyrics-finder/static/js/main.388b4eb3.chunk.js",
+    "main.js.map": "/lyrics-finder/static/js/main.388b4eb3.chunk.js.map",
+    "runtime-main.js": "/lyrics-finder/static/js/runtime-main.1fce26a4.js",
+    "runtime-main.js.map": "/lyrics-finder/static/js/runtime-main.1fce26a4.js.map",
+    "static/js/2.beef8847.chunk.js": "/lyrics-finder/static/js/2.beef8847.chunk.js",
+    "static/js/2.beef8847.chunk.js.map": "/lyrics-finder/static/js/2.beef8847.chunk.js.map",
+    "index.html": "/lyrics-finder/index.html",
+    "precache-manifest.f2b9573916249eb4c408eb60e5381210.js": "/lyrics-finder/precache-manifest.f2b9573916249eb4c408eb60e5381210.js",
+    "service-worker.js": "/lyrics-finder/service-worker.js",
+    "static/css/main.f678686e.chunk.css.map": "/lyrics-finder/static/css/main.f678686e.chunk.css.map",
+    "static/js/2.beef8847.chunk.js.LICENSE.txt": "/lyrics-finder/static/js/2.beef8847.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dff2f7fa.js",
+    "static/js/runtime-main.1fce26a4.js",
     "static/js/2.beef8847.chunk.js",
     "static/css/main.f678686e.chunk.css",
-    "static/js/main.4f4ed0f1.chunk.js"
+    "static/js/main.388b4eb3.chunk.js"
   ]
 }
